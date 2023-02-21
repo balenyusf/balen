@@ -1,0 +1,286 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+.main{
+        
+    background: linear-gradient(to right top,#0ecae8, #0ee894,#ff7200,  #23b186);
+    background-position: center;
+    background-size: cover;
+    height: 120vh;
+    
+ width: 1350px;
+    
+    margin: auto;
+
+}
+
+
+.logo{
+    color: #ff7200;
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 40px;
+    float: center;
+    padding-top: 10px;
+}
+.icon a{
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.content{
+    font-family: 'Times New Roman';
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    position: relative;
+}
+
+
+.content h1{
+
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 0px;
+    margin-top:5.5%;
+    letter-spacing: 2px;
+
+}
+
+
+.par{
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 0px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.1px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+
+.content span{
+    color: #ff7200;
+    font-size: 60px;
+}
+.content1{
+    width: 1265px;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    position: relative;
+}
+.form{
+    width: 240px;
+    height: 380px;
+    background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+    position: absolute;
+    top: -150px;
+    right: 275px;
+    border-radius: 25px;
+    padding: 25px;
+    transition: 1s; 
+    color: #fff;
+}
+
+
+
+
+.form:hover
+    {
+        box-shadow: 0 1.5px 10px 0 #ff7200 inset, 0 1.5px 10px 0 ,
+        0 1.5px 10px 0 #ff7200 inset, 0 1.5px 10px 0 #ff7200;
+text-shadow: 0 0 1.5px #ff7200,  0 0 1.5px #ff7200;    }    
+    
+    
+    
+    
+
+
+
+
+
+.form h2{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #ff7200;
+    font-size: 22px;
+    background-color: #fff;
+    border-radius: 10px; 
+    margin: 2px;
+    padding: 8px;
+   
+}
+.BALEN a {
+    text-decoration: none;
+    color: #ff7200;
+}
+    .BALEN
+    {
+        position: relative;
+        text-align: center;
+        width: 220px;
+        padding: 8px;
+        font-size: 22px;
+        color: #fff;
+        font-weight: 400;
+        border: 5px solid #ff7200;
+        text-transform: uppercase;
+        font-weight: 200;
+        border: 2px solid #ff7200;
+        text-transform: uppercase;
+        letter-spacing: 10px;
+        cursor: pointer;
+        border-radius: 10px;
+        transition: 1.5s;
+        top: -35px;
+    }
+
+    .BALEN:hover
+    {
+        box-shadow: 0 1.5px 10px 0 #ff7200 inset, 0 1.5px 10px 0 ,
+                    0 1.5px 10px 0 #ff7200 inset, 0 1.5px 10px 0 #ff7200;
+        text-shadow: 0 0 1.5px #ff7200,  0 0 1.5px #ff7200;          
+    }
+    
+    .ld{
+        color: #ff7200;
+    }
+   
+   
+
+
+
+    .form:hover{
+        transform: scale(1.1);
+    z-index: 2;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .form1{
+        width: 240px;
+        height: 380px;
+        background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+        position: absolute;
+        top: -150px;
+        right: -30px;
+        border-radius: 25px;
+        padding: 25px;
+        transition: 1s;
+        
+        color: #fff;
+    }
+    
+    
+.form1:hover
+    {
+        box-shadow: 0 1.5px 10px 0 #18916c inset, 0 1.5px 10px 0 ,
+                    0 1.5px 10px 0 #18916c inset, 0 1.5px 10px 0 #18916c;
+        text-shadow: 0 0 1.5px #18916c,  0 0 1.5px #18916c;      }    
+    
+    
+    
+    
+    
+    
+    
+    
+    .form1 h2{
+        width: 220px;
+        font-family: sans-serif;
+        text-align: center;
+        color: #23b186;
+        font-size: 22px;
+        background-color: #fff;
+        border-radius: 10px; 
+        margin: 2px;
+        padding: 8px;}
+    .BALEN1 a {
+        text-decoration: none;
+    }
+        .BALEN1 
+        {
+            position: relative;
+            text-align: center;
+            width: 220px;
+            padding: 8px;
+            font-size: 22px;
+            color: #fff;
+            font-weight: 4000;
+            border: 5px solid #23b186;
+            text-transform: uppercase;
+            font-weight: 200;
+            border: 2px solid #23b186;
+            text-transform: uppercase;
+            letter-spacing: 10px;
+            cursor: pointer;
+            border-radius: 10px;
+            transition: 1.5s;
+            top: 30px;
+            text-decoration: none;
+        }
+        .BALEN1 a {
+            text-decoration: none;
+            color: #23b186;
+        }
+        .BALEN1:hover
+        {
+            box-shadow: 0 1.5px 10px 0 #23b186 inset, 0 1.5px 10px 0 ,
+                        0 1.5px 10px 0 #23b186 inset, 0 1.5px 10px 0 #23b186;
+            text-shadow: 0 0 1.5px #23b186,  0 0 1.5px #23b186;          
+        }
+        .mo{
+            color: #23b186;
+        }
+       
+
+   .form1:hover{
+        transform: scale(1.1);
+    z-index: 2;
+    }
+
+
+.ul{
+    color: #fff;
+}
+
+ .br{
+        color: #ffffff;
+    }
+   
+
+   
